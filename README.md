@@ -6,6 +6,15 @@ ScamShield is an intelligent iOS scam detection app built with **SwiftUI**, **Sw
 
 ---
 
+# 📱 Screenshots
+
+|Home|Website|Phone|Scan History|Scan Details|Safety Center|Settings|
+|----|-------|-----|------------|------------|-------------|--------|
+|![Home](Screenshots/Home.png)|![Website](Screenshots/Website.png)|![Phone](Screenshots/Phone.png)|![Scan History](Screenshots/ScanHistory.png)|![Safety Center](Screenshots/SafetyCenter.png)|![Scan Detail](Screenshots/ScanDetail.png)|![Settings](Screenshots/Settings.png)|
+
+
+---
+
 # ✨ Features
 
 ## 🔍 Scam Detection
@@ -148,15 +157,6 @@ Reports can be:
 - Printed
 - Saved to Files
 - Emailed
-
----
-
-# 📱 Screenshots
-
-|Home|Website|Phone|Scan History|Scan Details|Safety Center|Settings|
-|----|-------|-----|------------|------------|-------------|--------|
-|![Home](Screenshots/Home.png)|![Website](Screenshots/Website.png)|![Phone](Screenshots/Phone.png)|![Scan History](Screenshots/ScanHistory.png)|![Safety Center](Screenshots/SafetyCenter.png)|![Scan Detail](Screenshots/ScanDetail.png)|![Settings](Screenshots/Settings.png)|
-
 
 ---
 
