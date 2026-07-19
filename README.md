@@ -153,57 +153,10 @@ Reports can be:
 
 # 📱 Screenshots
 
-## Home
+|Home|Website|Phone|Scan History|Scan Details|Safety Center|Settings|
+|----|-------|-----|------------|------------|-------------|--------|
+|![Home](Screenshots/Home.png)|![Website](Screenshots/Website.png)|![Phone](Screenshots/Phone.png)|![Scan History](Screenshots/ScanHistory.png)|![Safety Center](Screenshots/SafetyCenter.png)|![Scan Detail](Screenshots/ScanDetail.png)|![Settings](Screenshots/Settings.png)|
 
-![Home](Screenshots/home.png)
-
----
-
-## Message Analysis
-
-![Message Analysis](Screenshots/message-analysis.png)
-
----
-
-## Scam Pattern Detection
-
-![Pattern Detection](Screenshots/pattern-detection.png)
-
----
-
-## Rule-Based Explanation
-
-![Explanation](Screenshots/explanation.png)
-
----
-
-## Risk Score Breakdown
-
-![Risk Breakdown](Screenshots/risk-breakdown.png)
-
----
-
-## Screenshot OCR
-
-![OCR](Screenshots/screenshot-ocr.png)
-
----
-
-## Document Scanner
-
-![Scanner](Screenshots/document-scanner.png)
-
----
-
-## Scan History
-
-![History](Screenshots/history.png)
-
----
-
-## Settings
-
-![Settings](Screenshots/settings.png)
 
 ---
 
@@ -320,13 +273,4 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-Developed by **YOUR NAME**
-
-GitHub:
-https://github.com/YOUR_USERNAME
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
+Developed by Jarvis Lam
